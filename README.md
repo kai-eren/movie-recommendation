@@ -44,7 +44,7 @@ streamlit run movierec_main.py
 ## Screenshot
 
 ### Movie Recommendation App Example
-![Movie Recommendation Example](images/movie%rec%example.png)
+![Movie Recommendation Example](images/movie_rec_example.png)
 
 
 
