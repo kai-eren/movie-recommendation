@@ -12,7 +12,8 @@ Builds a content-based movie recommendation system using a CSV of 10,000+ movies
 ## Skills Demonstrated 
 - Data cleaning, preprocessing, and feature extraction with Pandas.
 - Text vectorization and similarity computation using scikit-learn.
-- Implementing feature weighting for enhanced recommendations.
+- Machine learning techniques: computing cosine similarity for content-based recommendations.
+- Implementing feature weighting for personalized recommendations.
 - Front-end prototype using Streamlit.
 
 ## Technologies 
