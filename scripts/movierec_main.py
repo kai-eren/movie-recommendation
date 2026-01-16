@@ -8,7 +8,7 @@ import streamlit as st # To build an interactive web app UI
 # Load and prepare dataset
 # -------------------------------
 
-df = pd.read_csv("dataset.csv")
+df = pd.read_csv("raw-dataset.csv")
 
 # Keeping the relevant columns for similarity calculation
 relevant_columns = ['title','genre','director','cast']
